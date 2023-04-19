@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "unicode-bidi",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.3.12",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/servo/unicode-bidi",
+    "Description": "Implementation of the Unicode Bidirectional Algorithm."
+  }
+]
